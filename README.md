@@ -1,1 +1,1 @@
-# my-demo-app
+# my-sample-app
